@@ -1,6 +1,6 @@
 document.getElementById("openFormButton").addEventListener("click", function() {
     document.getElementById("popupForm").style.display = "block";
-    history.pushState({ formOpen: true }, '', '/s0177158.github.io');
+    history.pushState({ formOpen: true }, '', 'S0177158_L.github.io/web/');
     
   });
   
@@ -26,5 +26,5 @@ message: '',
   });
   function closePopup() {
     document.getElementById("popupForm").style.display = "none";
-    window.location.href = "/S0177158_L.github.io/web/web1/number1.html";
+    window.location.href = "S0177158_L.github.io/web/web1/number1.html";
   }
