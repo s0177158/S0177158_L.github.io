@@ -110,5 +110,5 @@ message: '',
   });
   function closePopup() {
     document.getElementById("popupForm").style.display = "none";
-    window.location.href = "/s0177158.github.io/web/web1/";
+    window.location.href = "https://s0177158.github.io/S0177158_L.github.io/web/web1/number1.html";
   }
